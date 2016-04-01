@@ -1,17 +1,21 @@
 {
-	"bootstrapped": true,
-	"channels":
-	[
-		"https://packagecontrol.io/channel_v3.json",
-		"https://packagecontrol.io/channel_v3.json"
-	],
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Emmet",
-		"HTML-CSS-JS Prettify",
-		"jshintify"
-	]
+    "bootstrapped": true,
+    "channels":
+    [
+        "https://packagecontrol.io/channel_v3.json"
+    ],
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "AngularJS",
+        "DocBlockr",
+        "Emmet",
+        "HTML-CSS-JS Prettify",
+        "jQuery",
+        "JsFormat",
+        "JSHint",
+        "jshintify"
+    ]
 }
