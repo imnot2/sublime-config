@@ -1,20 +1,6 @@
-# Compiled Object files
-*.o
-*.obj
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Compiled Static libraries
-*.a
-*.lib
-
-# Executables
-*.exe
-
-# DUB
-.dub
-docs.json
-__dummy.html
+.DS_Store
+Package\ Control.cache
+Package\ Control.last-run
+Package\ Control.merged-ca-bundle
+Package\ Control.user-ca-bundle
+Package\ Control.system-ca-bundle
